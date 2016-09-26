@@ -1,0 +1,20 @@
+{
+  "name": "nodetodolist",
+  "description": "exercise to create todolist blending frontend and backend",
+  "main": "server/server.js",
+  "authors": [
+    "Matt Latham <latham75@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lathammatt/nodetodolist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "nodetodolist",
+  "version": "1.0.0",
+  "description": "exercise to create todolist blending frontend and backend",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathammatt/nodetodolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathammatt/nodetodolist/issues"
+  },
+  "homepage": "https://github.com/lathammatt/nodetodolist#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1"
+  }
+}
